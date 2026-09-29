@@ -59,7 +59,7 @@ __Typische Anwendungsfälle__
 
 ## Wann eignet sich eine Git-basierte Plattform?
 
-Plattformen wie GitHub oder GitLab sind für nichtinformatikaffine Menschen etwas gewöhnungsbedürftig. Ein Git-Repository ist jedoch unerlässlich, wenn Sie mehr wollen als der LiveEditor momentan ermöglicht.
+Plattformen wie GitHub oder GitLab sind für nichtinformatikaffine Menschen etwas gewöhnungsbedürftig. Ein Git-Repository ist jedoch sinnvoll, wenn Sie kooperativ an Lernangeboten arbeiten und diese zum Selbstlernen teilen wollen.
 
 __Typische Anwendungsfälle__
 
@@ -71,11 +71,18 @@ __Typische Anwendungsfälle__
 __So gehen Sie vor:__ 
 > Keine Panik: Mit Unterstützung durch KI schaffen Sie das selbst dann, wenn Ihre einzige Lösung für Computerprobleme sonst "Neustart" ist (funktioniert ja auch meistens)! 
 
+Grundlagen schaffen:
 1. Erstellen Sie ein Repository, z.B. auf GitHub.
 2. Laden Sie die Inhalte aus dem LiveEditor als .zip runter (unter "Menu") und in Ihrem Repository wieder hoch.
 3.  Verlinken Sie ggf. Medien neu.
-4. Stellen Sie das Repository auf "public". 
-5. Gehen Sie auf Ihre Markdown-Datei im Repository. Klicken Sie auf "Raw". Kopieren Sie die Raw-URL. Fügen Sie diese unter [https://liascript.github.io/](https://liascript.github.io/) ein und gehen Sie auf "Open Course". Voila, Ihr LiaScript-Kurs ist fertig! Natürlich sollten Sie nun nochmal alles prüfen und ggf. anpassen, falls sich Fehler eingeschlichen haben (Das Bearbeiten einer Datei in GitHub können Sie mit dem kleinen Stift-Symbol aktivieren!). Wenn Sie etwas im Repository verändern, müssen Sie lediglich die Seite Ihres LiaScript-Kurses aktualisieren. 
+
+Gemeinsam arbeiten:
+Nun können Sie Menschen einladen, mit Ihnen gemeinsam am Repository zu arbeiten. Dazu können Sie ihnen entsprechende Zugriffsrechte für das Repository geben. In GitHub finden Sie diese Möglichkeit z.B. unter Settings/Collaborators. Dort können Sie Personen über deren GitHub-Nutzernamen oder E-Mail-Adresse einladen.
+
+Den Kurs für Lernende bereitstellen:
+1. Stellen Sie das Repository auf "public", damit LiaScript auf die Datei zugreifen kann.
+2. Gehen Sie auf Ihre Markdown-Datei im Repository. Klicken Sie auf "Raw". Dadurch wird der reine Inhalt Ihrer Markdown-Datei angezeigt. Kopieren Sie die URL dieser Seite (die sogenannte Raw-URL). Fügen Sie diese unter [https://liascript.github.io/](https://liascript.github.io/) ein und gehen Sie auf "Open Course". Voila, Ihr LiaScript-Kurs ist fertig! Natürlich sollten Sie nun nochmal alles prüfen und ggf. anpassen, falls sich Fehler eingeschlichen haben (Das Bearbeiten einer Datei in GitHub können Sie mit dem kleinen Stift-Symbol aktivieren!). Wenn Sie etwas im Repository verändern, müssen Sie lediglich die Seite Ihres LiaScript-Kurses und ggf. Ihren Browser aktualisieren.
+3. Teilen Sie den Link Ihres LiaScript-Kurses mit den Lernenden. 
 
 
 ---
