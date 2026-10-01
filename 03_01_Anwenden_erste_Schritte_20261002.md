@@ -20,7 +20,7 @@
 ## Arbeitsschritte
 
 1. Öffnen Sie den Live-Editor: [https://liascript.github.io/LiveEditor](https://liascript.github.io/LiveEditor). Klicken Sie auf "Neu" bzw. "New Course".
-2. Es öffnet sich ein Fenster, in dem Sie sehen können, welche Möglichkeiten Sie haben, Daten für Ihren Kurs zu importieren. Klicken Sie noch einmal auf "Neu".
+2. Es öffnet sich ein Fenster in dem Sie sehen können, welche Möglichkeiten Sie haben, Daten für Ihren Kurs zu importieren. Klicken Sie noch einmal auf "Neu".
 3. Jetzt können Sie direkt loslegen. Versuchen Sie als erstes auf der linken Seite (Bearbeitungsseite) eine Überschrift zu generieren. Schauen Sie sich das Ergebnis im "Preview" an. Fügen Sie dann etwas Text ein und trennen Sie zwei Textteile durch einen Absatz. Aktualisieren Sie den Preview mit "Compile". 
 
     _Sie haben bereits Ihr erstes Material erstellt, das ging schnell, oder?_
