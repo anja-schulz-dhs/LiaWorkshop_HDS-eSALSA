@@ -19,16 +19,17 @@
 
 ## Arbeitsschritte
 
-1. Öffnen Sie den Live-Editor: [https://liascript.github.io/LiveEditor](https://liascript.github.io/LiveEditor). Klicken Sie auf "New Course".
-2. Jetzt können Sie direkt loslegen. Versuchen Sie als erstes eine Überschrift zu generieren. Schauen Sie sich das Ergebnis im "Preview" an. Fügen Sie dann etwas Text ein und trennen Sie zwei Textteile durch einen Absatz. Aktualisieren Sie den Preview mit "Compile". 
+1. Öffnen Sie den Live-Editor: [https://liascript.github.io/LiveEditor](https://liascript.github.io/LiveEditor). Klicken Sie auf "Neu" bzw. "New Course".
+2. Es öffnet sich ein Fenster, in dem Sie sehen können, welche Möglichkeiten Sie haben, Daten für Ihren Kurs zu importieren. Klicken Sie noch einmal auf "Neu".
+3. Jetzt können Sie direkt loslegen. Versuchen Sie als erstes auf der linken Seite (Bearbeitungsseite) eine Überschrift zu generieren. Schauen Sie sich das Ergebnis im "Preview" an. Fügen Sie dann etwas Text ein und trennen Sie zwei Textteile durch einen Absatz. Aktualisieren Sie den Preview mit "Compile". 
 
     _Sie haben bereits Ihr erstes Material erstellt, das ging schnell, oder?_
 
-3. Fügen Sie nun eine weitere Überschrift hinzu. Was passiert im Preview?
-4. Stellen Sie nun das Lernmaterial, dass Sie mit LiaScript erstellen wollen, auf der zweiten Seite kurz vor! Bauen Sie dafür einen Text mit Aufzählung oder ein anderes Inhaltselement Ihrer Wahl ein.
-5. Versuchen Sie diese Seite mit Hervorhebungen visuell zu strukturieren. 
-6. Zum Abschluss soll es noch um ein paar spezifischere Funktionalitäten gehen. Generieren Sie eine neue Seite und fügen Sie eine Tabelle und ein Quiz Ihrer Wahl zur Aktivierung Ihrer Lernenden ein. 
-7. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Sie könnten zum Beispiel versuchen Content zu erstellen, der sich erst nach einem weiteren Klick zeigt oder ein kurzes Video einzubetten oder ausführbaren Code einzubinden.  
+4. Fügen Sie nun eine weitere Überschrift hinzu. Was passiert im Preview?
+5. Stellen Sie nun das Lernmaterial, dass Sie mit LiaScript erstellen wollen, auf der zweiten Seite kurz vor! Bauen Sie dafür einen Text mit Aufzählung oder ein anderes Inhaltselement Ihrer Wahl ein.
+6. Versuchen Sie diese Seite mit Hervorhebungen visuell zu strukturieren. 
+7. Zum Abschluss soll es noch um ein paar spezifischere Funktionalitäten gehen. Generieren Sie eine neue Seite und fügen Sie eine Tabelle und ein Quiz Ihrer Wahl zur Aktivierung Ihrer Lernenden ein. 
+8. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Sie könnten zum Beispiel versuchen Content zu erstellen, der sich erst nach einem weiteren Klick zeigt oder ein kurzes Video einzubetten oder ausführbaren Code einzubinden.  
 
 ---
 
